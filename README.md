@@ -1,6 +1,6 @@
 # Alura ScreenMatch Java!
 
-#Java: aplicando a orientação a objetos.
+# Java: aplicando a orientação a objetos.
 
 Faça esse curso de Java e:
 - Aprenda os conceitos da Orientação a Objetos utilizando o Java

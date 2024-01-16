@@ -6,6 +6,7 @@ public class Episodio implements Classificavel {
     private int numero;
     private String nome;
     private Serie serie;
+    private int totalVisualizacoes;
 
     public int getTotalVisualizacoes() {
         return totalVisualizacoes;
@@ -14,8 +15,6 @@ public class Episodio implements Classificavel {
     public void setTotalVisualizacoes(int totalVisualizacoes) {
         this.totalVisualizacoes = totalVisualizacoes;
     }
-
-    private int totalVisualizacoes;
 
     public int getNumero() {
         return numero;
